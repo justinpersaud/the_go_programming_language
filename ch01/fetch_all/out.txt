@@ -1,0 +1,4 @@
+0.28s    8158 https://golang.org
+0.32s   11900 https://www.google.ca
+0.62s   14509 https://www.prometheus.io
+0.62s elapsed
