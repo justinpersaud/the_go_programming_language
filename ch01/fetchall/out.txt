@@ -1,0 +1,6 @@
+0.30s    8158 https://golang.org
+0.31s   11910 https://www.google.com
+0.31s   11956 https://www.google.ca
+0.52s   14509 https://www.prometheus.io
+Get https://www.google.com:8443: dial tcp 172.217.164.196:8443: i/o timeout
+30.01s elapsed
