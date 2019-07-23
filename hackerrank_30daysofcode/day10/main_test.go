@@ -12,7 +12,7 @@ func TestConsecutiveOne(t *testing.T) {
 		{"5", 1},
 		{"13", 2},
 		{"6", 2},
-		{"439", 3}, // this one is failing
+		{"439", 3},
 	}
 	for _, table := range tables {
 		result := ConsecutiveOne(table.x)
